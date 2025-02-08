@@ -1,7 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![]([https://github.com/najirh/netflix_sql_project/blob/main/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.netflix.com%2Fnews%2Fupdate-on-sharing-may-us&psig=AOvVaw0kkFgjMHb6W_gtFu2MCDvq&ust=1739116184027000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjixf22tIsDFQAAAAAdAAAAABAK))
-
+![](https://images.ctfassets.net/4cd45et68cgf/420BtDZ84P3YSypsaRUzPQ/64fb5aae97e75630ca61f9910bc27729/MHU_FINAL_D2_936x622.jpg?w=2000)
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset.
 
